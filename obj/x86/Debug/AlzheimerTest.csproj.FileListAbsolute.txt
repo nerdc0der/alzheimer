@@ -1,0 +1,8 @@
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\bin\Debug\AlzheimerTest.exe
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\bin\Debug\AlzheimerTest.pdb
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.Form1.resources
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.Properties.Resources.resources
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.csproj.GenerateResource.Cache
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.exe
+c:\users\aguerrero\documents\visual studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.pdb
+C:\Users\AGuerrero\Documents\Visual Studio 2010\Projects\AlzheimerTest\AlzheimerTest\obj\x86\Debug\AlzheimerTest.csprojResolveAssemblyReference.cache
